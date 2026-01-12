@@ -22,6 +22,7 @@ Engineering Student || Open Source Aspirant || Future Software Engineer
  > CSS
  > JavaScript
  > React JS (learning)
+ > Python (Django)
 
    Tools & Platforms
  > Git
