@@ -8,28 +8,28 @@ Engineering Student || Open Source Aspirant || Future Software Engineer
  > Ask me about C, Java, Git basics
 
  # Tech Stack & Skills
- # 💻 Programming Languages
+ #  Programming Languages
  > C
  > Java
  > Python (basic)
 
- # 🧠 CS Fundamentals
+ #  CS Fundamentals
  > Data Structures & Algorithms
  > Object-Oriented Programming
 
- # 🌐 Web Technologies
+ #  Web Technologies
  > HTML
  > CSS
  > JavaScript
  > React JS (learning)
 
- # 🔧 Tools & Platforms
+ #  Tools & Platforms
  > Git
  > GitHub
  > VS Code
  > Linux (basic)
 
-# 📊 GitHub Stats
+#  GitHub Stats
 
 [Punya's GitHub stats](https://github-readme-stats.vercel.app/api?username=punyagowdagd66&show_icons=true&theme=tokyonight)
 
