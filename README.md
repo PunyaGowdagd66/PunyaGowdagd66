@@ -47,7 +47,7 @@ Here are some of the projects I’ve built or contributed to, showcasing my **We
 | Currency Converter 💱| Simple currency converter web app | HTML, CSS, JavaScript | Forked + Improved | [GitHub](https://github.com/PunyaGowdagd66/Currency_Converter) |
 |Web Dev JS Practice 🌐 | Frontend web development practice (lessons & exercises) | HTML, CSS, JavaScript | Forked + Improved | [GitHub](https://github.com/PunyaGowdagd66/web-dev-js) 
 
-# 🤝 Connect with Me
+#🤝 Connect with Me
 
 > LinkedIn:linkedin.com/in/punya-gowda-gd-459434338
 > Email:punyagowdagd@gmail.com
