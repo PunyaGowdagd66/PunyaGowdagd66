@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi 👋, I'm Punya Gowda G D
 
-<!--
-**PunyaGowdagd66/PunyaGowdagd66** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Engineering Student || Open Source Aspirant || Future Software Engineer
 
-Here are some ideas to get you started:
+ > Currently learning DSA, Git, and Open source
+ > Exploring Web Development & Backend fundamentals
+ > Looking to contribute to open source projects
+ > Ask me about C, Java, Git basics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ # Tech Stack & Skills
+ # 💻 Programming Languages
+ > C
+ > Java
+ > Python (basic)
+
+ # 🧠 CS Fundamentals
+ > Data Structures & Algorithms
+ > Object-Oriented Programming
+
+ # 🌐 Web Technologies
+ > HTML
+ > CSS
+ > JavaScript
+ > React JS (learning)
+
+ # 🔧 Tools & Platforms
+ > Git
+ > GitHub
+ > VS Code
+ > Linux (basic)
+
+# 📊 GitHub Stats
+
+[Punya's GitHub stats](https://github-readme-stats.vercel.app/api?username=punyagowdagd66&show_icons=true&theme=tokyonight)
+
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=punyagowdagd66&layout=compact&theme=tokyonight)
+
+[GitHub Streak](https://streak-stats.demolab.com/?user=punyagowdagd66&theme=tokyonight)
+
+
+
+
+
+
