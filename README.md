@@ -11,7 +11,7 @@ Engineering Student || Open Source Aspirant || Future Software Engineer
   Programming Languages
  > C
  > Java
- > Python (basic)
+ > Python 
 
   CS Fundamentals
  > Data Structures & Algorithms
