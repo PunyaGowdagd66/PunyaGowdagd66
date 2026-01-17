@@ -1,4 +1,4 @@
-# Hi 👋, I'm Punya Gowda
+# Hi 👋, I'm Punya Gowda G D
 
 Engineering Student || Open Source Aspirant || Future Software Engineer
 
