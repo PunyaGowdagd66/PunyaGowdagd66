@@ -1,11 +1,11 @@
-# Hi 👋, I'm Punya Gowda 
+# Hi 👋, I'm Punya Gowda G D
 
 Engineering Student || Open Source Aspirant || Future Software Engineer
 
  > Currently learning DSA, Git, and Open source
  > Exploring Web Development & Backend fundamentals
  > Looking to contribute to open source projects
- > Ask me about C, Java, Git basics
+ > Ask me about C, Java, Git basics,python 
 
  # 🛠️Tech Stack & Skills
   Programming Languages
