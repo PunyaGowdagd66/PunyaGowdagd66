@@ -7,7 +7,7 @@ Engineering Student || Open Source Aspirant || Future Software Engineer
  > Looking to contribute to open source projects
  > Ask me about C, Java, Git basics,python 
 
- # Tech Stack & Skills
+  Tech Stack & Skills
   Programming Languages
  > C
  > Java
