@@ -51,7 +51,7 @@ Here are some of the projects I’ve built or contributed to, showcasing my **We
 
 #🤝 Connect with me
 
-> LinkedIn:linkedin.com/in/punya-gowda-gd-459434338
+> LinkedIn:in/punya-gowda-gd-459434338
 > Email:punyagowdagd@gmail.com
 > GitHub: github.com/PunyaGowdagd66 
 
