@@ -39,7 +39,7 @@ Engineering Student || Open Source Aspirant || Future Software Engineer
 
 [GitHub Streak](https://streak-stats.demolab.com/?user=punyagowdagd66&theme=tokyonight)
 
-# My Projects
+ My Projects
 
 Here are some of the projects I’ve built or contributed to, showcasing my **Web Development, JavaScript, React, and Open Source skills**:
 
@@ -49,7 +49,7 @@ Here are some of the projects I’ve built or contributed to, showcasing my **We
 > Currency Converter | Simple currency converter web app | HTML, CSS, JavaScript | Forked + Improved | [GitHub](https://github.com/PunyaGowdagd66/Currency_Converter) 
 >Web Dev JS Practice  | Frontend web development practice (lessons & exercises) | HTML, CSS, JavaScript | Forked + Improved | [GitHub](https://github.com/PunyaGowdagd66/web-dev-js) 
 
-# Connect with me
+Connect with me
 
 > LinkedIn:in/punya-gowda-gd-459434338
 > Email:punyagowdagd@gmail.com
