@@ -31,7 +31,7 @@ Engineering Student || Open Source Aspirant || Future Software Engineer
  > VS Code
  > Linux (basic)
 
-  GitHub Stats:
+  GitHub Stats
 
 [Punya's GitHub stats](https://github-readme-stats.vercel.app/api?username=punyagowdagd66&show_icons=true&theme=tokyonight)
 
