@@ -1,8 +1,8 @@
 # Hi 👋, I'm Punya Gowda 
 Engineering Student || Open Source Aspirant || Future Software Engineer
 
- > Currently learning DSA, Git, and Open source
- > Exploring Web Development & Backend fundamentals
+ > Currently learning DSA ,Git, and Open source
+ > Exploring Web Development and Backend fundamentals
  > Looking to contribute to open source projects
 
   Tech Stack & Skills
