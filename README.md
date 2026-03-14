@@ -7,7 +7,12 @@
  > Looking to contribute to open source projects
 
   Tech Stack & Skills
-  Programming Languages
+  Programming Languages##
+  🛠 Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,react,django,git,github,linux,vscode" />
+</p>
  > C
  > Java
  > Python 
