@@ -1,5 +1,6 @@
-# Hey 👋 I'm Punya Gowda 
-Engineering Student || Open Source Aspirant || Future Software Engineer
+
+ <h1 align="center">Hi 👋, I'm Punya Gowda</h1>
+<h3 align="center">Engineering Student | Open Source Aspirant | Future Software Engineer</h3>
 
  > Currently learning DSA ,Git, and Open source
  > Exploring Web Development & Backend fundamentals
