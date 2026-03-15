@@ -7,6 +7,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=PunyaGowdagd66&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
+
 ## 📊 GitHub Stats
 
 ![Punya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunyaGowdagd66&show_icons=true&theme=tokyonight)
