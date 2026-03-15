@@ -20,8 +20,25 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
 
-### Backend
+### ⚙️ Backend / Runtime
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs)
 ![Django](https://img.shields.io/badge/Django-darkgreen?style=for-the-badge&logo=django)
+![GitHub API](https://img.shields.io/badge/GitHub_API-black?style=for-the-badge&logo=github)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql)
+
+### 🧠 CS Fundamentals
+
+![Data Structures](https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge)
+![Algorithms](https://img.shields.io/badge/Algorithms-green?style=for-the-badge)
+![Object Oriented Programming](https://img.shields.io/badge/OOP-orange?style=for-the-badge)
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-red?style=for-the-badge)
+
+### 💻 Operating Systems
+
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
