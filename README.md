@@ -59,6 +59,22 @@ Tech Stack: HTML, CSS, JavaScript
 
 🔗 https://github.com/PunyaGowdagd66/project-link
 
+## 📈 Contribution Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PunyaGowdagd66&theme=tokyo-night)
+
+## 🌍 Open Source Contributions
+
+Contributor at:
+
+- AOSSIE (GSoC Organization)
+- Working on issues, pull requests and improvements
+
+  ## 🎯 Goal
+
+Preparing for Google Summer of Code 2026  
+Focused on Open Source, Backend Development and DSA.
+
 
 
 
