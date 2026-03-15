@@ -55,6 +55,18 @@
 
 ## 🚀 Featured Projects
 
+🌐 Org Explorer
+
+A web application that allows users to explore GitHub organizations and analyze repositories, contributors, and activity using the GitHub API.
+
+Tech Stack: HTML • CSS • JavaScript • GitHub API • GraphQL
+
+Live Demo:
+https://punyagowdagd66.github.io/project-org-explorer/
+
+GitHub Repository:
+https://github.com/PunyaGowdagd66/org-explorer-project
+
 ### 🛒 Amazon Clone UI
 Frontend clone of Amazon homepage.
 
