@@ -36,6 +36,7 @@
 ![Data Structures](https://img.shields.io/badge/Data%20Structures-blue?style=for-the-badge)
 ![Algorithms](https://img.shields.io/badge/Algorithms-green?style=for-the-badge)
 ![Object Oriented Programming](https://img.shields.io/badge/OOP-orange?style=for-the-badge)
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0A0A0A?style=for-the-badge&logo=hackthebox&logoColor=green)
 ![Problem Solving](https://img.shields.io/badge/Problem%20Solving-red?style=for-the-badge)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux)
