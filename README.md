@@ -74,13 +74,6 @@ Tech Stack: Python, Pandas, Scikit-Learn
 
 🔗 https://github.com/PunyaGowdagd66/project-link
 
-### 💱 Currency Converter
-Simple currency converter web app.
-
-Tech Stack: HTML, CSS, JavaScript  
-
-🔗 https://github.com/PunyaGowdagd66/project-link
-
 ## 📈 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=PunyaGowdagd66&theme=tokyo-night)
