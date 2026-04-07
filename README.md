@@ -85,7 +85,7 @@ Contributor at:
 - AOSSIE (GSoC Organization)
 - Working on issues, pull requests and improvements
 
-  ## 🎯 Goal
+  #🎯 Goal
 
 Preparing for Google Summer of Code 2026  
 Focused on Open Source, Backend Development and DSA.
