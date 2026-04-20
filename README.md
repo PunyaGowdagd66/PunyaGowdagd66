@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Punya Gowda </h1>
+<h1 align="center">Hi 👋, I'm Punya Gowda GD</h1>
     <h3 align="center">Engineering Student | Open Source Enthusiast | Future Software Engineer</h3>
 
 <p align="center">
