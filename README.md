@@ -17,7 +17,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=PunyaGowdagd66&theme=tokyonigh)
 
 
-## 🛠 Languages and Tools
+# 🛠 Languages and Tools
 
 ![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
