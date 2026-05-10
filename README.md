@@ -46,7 +46,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/VSCode-blue?style=for-the-badge&logo=visualstudiocode)
 
-## 🚀 Featured Projects
+# 🚀 Featured Projects
 
 🌐 Org Explorer
 
