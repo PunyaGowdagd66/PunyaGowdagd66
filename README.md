@@ -8,14 +8,6 @@
   <img src="https://komarev.com/ghpvc/?username=PunyaGowdagd66&label=Profile%20views&color=0e75b6&style=flat" />
 </p>
 
-## 📊 GitHub Stats
-
-![Punya's GitHub stats](https://github-readme-stats.vercel.app/api?username=PunyaGowdagd66&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PunyaGowdagd66&layout=compact&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=PunyaGowdagd66&theme=tokyonigh)
-
 
 # 🛠 Languages and Tools
 
